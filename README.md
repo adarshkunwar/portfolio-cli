@@ -47,7 +47,7 @@ npm install
 npm run dev
 ```
 
-6. Be amazed by my <em> Glorious Creation </em>
+6. Be amazed by my <em> ===Glorious Creation=== </em>
 
 # Inspired by.
 
